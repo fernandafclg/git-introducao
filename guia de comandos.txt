@@ -3,3 +3,6 @@ git remote add origin  "link do GitHub"
 git add 
 git commit -m "mensagem de commit"
 git push  origin main 
+
+agora estamos na branch  nova 
+ o comando  git checkout -b dev 
